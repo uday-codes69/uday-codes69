@@ -41,9 +41,8 @@ I'm a passionate developer and open-source contributor focused on **Machine Lear
 
 ## 📫 Let's Connect
 
-- 📧 Email: ai.era@example.com *(replace with yours)*
-- 💬 Slack: @ai_era (Kubeflow / CNCF workspace)
-- 🌐 Portfolio: [coming soon]
+- 📧 Email: uday35700@gmail.com 
+- 💬 Slack: @udaythakur (Kubeflow / CNCF workspace)
 
 ---
 
