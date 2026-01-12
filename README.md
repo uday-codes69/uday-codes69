@@ -4,5 +4,6 @@
 🌱 Currently learning: Agentic AI, Model Registry, CI/CD for ML
 🤝 Open to GenAI / AI Engineer internships & collaborations
 
+Building AI systems, not just notebooks
 
 
