@@ -1,11 +1,8 @@
-👋 Hey there! I’m Uday Thakur — passionate about Gen Ai , Agentic Ai
-🎯 Focused on becoming an expert in AI/ML and contributing to impactful open-source projects.
-🚀 Aspiring GSoC 2026 Contributor | 📍 UIIT Shimla, HPU
-🛠️ Currently learning: Model Registry, MLOps, Deep Learning
-🌱 Open to collaborations & hackathons!
-
-🧠 “Code. Learn. Build. Repeat.”
-
+🚀 GenAI & Agentic AI enthusiast | Building LLM systems, agents & RAG pipelines
+🔧 Focused on production-ready AI: APIs, tools, workflows & MLOps
+📚 UIT Shimla (HPU) | GSoC 2026 aspirant | Open-source contributor
+🌱 Currently learning: Agentic AI, Model Registry, CI/CD for ML
+🤝 Open to GenAI / AI Engineer internships & collaborations
 
 
 
