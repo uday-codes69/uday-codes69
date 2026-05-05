@@ -1,5 +1,5 @@
 🚀 AI | Machine Learning | Data Science | Generative AI
-🔧 Building production-ready ML systems, LLM applications, and RAG pipelines
-📚 Computer Science Student at Himachal Pradesh University (UIT Shimla)
-💡 Exploring model deployment, MLOps, APIs, and scalable AI workflows
-🤝 Open to AI/ML, Data Science, and GenAI internships & collaborations
+🔧 Building LLM applications, RAG pipelines, and AI-powered backend systems
+⚙️ Working with FastAPI, Python, APIs, and real-world AI integrations
+📚 UIT Shimla, Himachal Pradesh University
+🤝 Open to work on AI, Data Science, and Backend Engineering opportunities
