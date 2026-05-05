@@ -1,9 +1,5 @@
-🚀 GenAI & Agentic AI enthusiast | Building LLM systems, agents & RAG pipelines
-🔧 Focused on production-ready AI: APIs, tools, workflows & MLOps
-📚 UIT Shimla (HPU) | GSoC 2026 aspirant | Open-source contributor
-🌱 Currently learning: Agentic AI, Model Registry, CI/CD for ML
-🤝 Open to GenAI / AI Engineer internships & collaborations
-
-Building AI systems, not just notebooks
-
-
+🚀 AI | Machine Learning | Data Science | Generative AI
+🔧 Building production-ready ML systems, LLM applications, and RAG pipelines
+📚 Computer Science Student at Himachal Pradesh University (UIT Shimla)
+💡 Exploring model deployment, MLOps, APIs, and scalable AI workflows
+🤝 Open to AI/ML, Data Science, and GenAI internships & collaborations
